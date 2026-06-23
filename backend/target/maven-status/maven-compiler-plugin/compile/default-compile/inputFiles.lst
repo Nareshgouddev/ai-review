@@ -1,0 +1,15 @@
+/home/naresh/Desktop/ai_review/backend/src/main/java/com/uireview/UiReviewApplication.java
+/home/naresh/Desktop/ai_review/backend/src/main/java/com/uireview/config/AnthropicConfig.java
+/home/naresh/Desktop/ai_review/backend/src/main/java/com/uireview/config/CorsConfig.java
+/home/naresh/Desktop/ai_review/backend/src/main/java/com/uireview/exception/AnalysisFailedException.java
+/home/naresh/Desktop/ai_review/backend/src/main/java/com/uireview/exception/FileTooLargeException.java
+/home/naresh/Desktop/ai_review/backend/src/main/java/com/uireview/exception/InvalidFileTypeException.java
+/home/naresh/Desktop/ai_review/backend/src/main/java/com/uireview/exception/PathTraversalException.java
+/home/naresh/Desktop/ai_review/backend/src/main/java/com/uireview/exception/RateLimitExceededException.java
+/home/naresh/Desktop/ai_review/backend/src/main/java/com/uireview/exception/UIReviewException.java
+/home/naresh/Desktop/ai_review/backend/src/main/java/com/uireview/model/AnalysisRecord.java
+/home/naresh/Desktop/ai_review/backend/src/main/java/com/uireview/model/dto/AnalysisResultDto.java
+/home/naresh/Desktop/ai_review/backend/src/main/java/com/uireview/model/dto/AnalysisSummaryDto.java
+/home/naresh/Desktop/ai_review/backend/src/main/java/com/uireview/model/dto/CategoryDto.java
+/home/naresh/Desktop/ai_review/backend/src/main/java/com/uireview/model/dto/SuggestionDto.java
+/home/naresh/Desktop/ai_review/backend/src/main/java/com/uireview/repository/AnalysisRepository.java
